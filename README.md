@@ -1,6 +1,4 @@
-Discussion Board for Data projects 
-
-Share your open data-driven projects for good
+Share your data-driven projects for social good (just like Hacker News)
 
 Built on TelelescopeJS (http://telesc.pe)
 
